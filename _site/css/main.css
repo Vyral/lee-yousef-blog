@@ -1607,6 +1607,7 @@ table tr, table td {
 .readlink > a {
   background: #16AFBB;
   color: white;
+  border: 1px solid #16AFBB;
   border-radius: 5px;
   padding: 10px 20px;
   margin-top: 20px;
