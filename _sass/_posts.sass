@@ -35,6 +35,7 @@
 .readlink>a
   background: $brand
   color: $light-text
+	border: 1px solid $brand
   border-radius: 5px
   padding: 10px 20px
   margin-top: 20px
@@ -42,10 +43,10 @@
   font-size: 16px
   +transition
   &:hover
-    background: $light-text
+    background: transparent
     color: $brand-light
     box-shadow: 4px 4px 0 $brand-light
-    border: 2px solid $brand-light
+    border: 1px solid $brand-light
     @include transform(scale(1.05))
     @include transform(translateY(-0.2rem))
   &:active
