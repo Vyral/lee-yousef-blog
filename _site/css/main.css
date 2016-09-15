@@ -1358,7 +1358,7 @@ label.tree-toggle {
   margin-bottom: 20px; }
 
 .site-logo {
-  width: 100%;
+  width: 90%;
   max-width: 28rem;
   margin-top: 5rem;
   -webkit-filter: drop-shadow(0 2px 7px black);
@@ -1376,10 +1376,10 @@ label.tree-toggle {
 @media (max-width: 1000px) {
   .site-logo {
     max-width: 20rem; } }
-@media (max-width: 900px) {
-  #hero {
-    height: 40rem; } }
 @media (max-width: 760px) {
+  #hero {
+    height: 42rem; }
+
   .site-logo {
     max-width: 20rem;
     margin-top: 4rem; }
@@ -1388,7 +1388,7 @@ label.tree-toggle {
     font-size: 5rem; } }
 @media (max-width: 500px) {
   #hero {
-    height: 35rem; }
+    height: 38rem; }
 
   .site-logo {
     max-width: 15rem;
@@ -1810,7 +1810,7 @@ table tr, table td {
     -webkit-transition: all 0.15s ease-out 0s;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #2f2f2f;
+      fill: #4c4c4c;
       background: #4ddfea;
       color: #4ddfea;
       box-shadow: 4px 4px 0 #4ddfea;
@@ -1851,7 +1851,7 @@ table tr, table td {
     -webkit-transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
-      fill: #2F2F2F; }
+      fill: #4c4c4c; }
 
 @media (max-width: 445px) {
   .about .socials {
@@ -1897,7 +1897,8 @@ table tr, table td {
   .search-box .search-input {
     padding: 20px 10px;
     font-size: 18px;
-    border: 1px solid c7c7c7;
+    border: 1px solid white;
+    background: rgba(255, 255, 255, 0.1);
     color: #16AFBB;
     font-size: 2rem;
     padding: 2.4rem;
@@ -1905,6 +1906,14 @@ table tr, table td {
     margin-right: 1rem;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
+    .search-box .search-input::-webkit-input-placeholder {
+      color: white; }
+    .search-box .search-input::-moz-placeholder {
+      color: white; }
+    .search-box .search-input:-moz-placeholder {
+      color: white; }
+    .search-box .search-input:-ms-input-placeholder {
+      color: white; }
     .search-box .search-input:focus {
       background: white;
       color: #16AFBB;
@@ -1962,6 +1971,9 @@ table tr, table td {
   border-radius: 5px;
   -webkit-transition: 0.3s;
   transition: 0.3s; }
+  .review.button svg, .review.button-ghost svg {
+    fill: white;
+    width: 100px; }
   .review.button:hover, .review.button-ghost:hover {
     background: transparent;
     color: #4ddfea;
@@ -2011,7 +2023,8 @@ footer {
   background: #dadada;
   color: #353535;
   padding: 2rem;
-  text-align: center; }
+  text-align: center;
+  font-size: 18px; }
   footer hr {
     border-top: 2px solid #16AFBB; }
   footer address {
@@ -2279,19 +2292,22 @@ form select {
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
-.newsletter {
+section .newsletter {
+  background: #16AFBB;
   text-align: center; }
-  .newsletter p {
-    margin-bottom: 1.5rem; }
+section p {
+  margin-bottom: 1.5rem; }
 
 .newsletter_optin {
   max-width: 50rem;
   margin: 3rem auto;
-  margin-bottom: 1.5rem; }
+  margin-bottom: 1.5rem;
+  margin-top: 4.5rem; }
   .newsletter_optin input {
     vertical-align: middle; }
   .newsletter_optin input[type='email'] {
-    border: 1px solid #c7c7c7;
+    background: rgba(255, 255, 255, 0.3);
+    border: 1px solid white;
     color: #16AFBB;
     font-size: 2rem;
     padding: 2.4rem;
@@ -2301,13 +2317,13 @@ form select {
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .newsletter_optin input[type='email']::-webkit-input-placeholder {
-      color: #c7c7c7; }
+      color: white; }
     .newsletter_optin input[type='email']::-moz-placeholder {
-      color: #c7c7c7; }
+      color: white; }
     .newsletter_optin input[type='email']:-moz-placeholder {
-      color: #c7c7c7; }
+      color: white; }
     .newsletter_optin input[type='email']:-ms-input-placeholder {
-      color: #c7c7c7; }
+      color: white; }
     .newsletter_optin input[type='email']:focus {
       background: white;
       color: #16AFBB;
@@ -2329,14 +2345,14 @@ form select {
     font-size: 2rem;
     border-radius: 8px;
     font-weight: 300;
-    border: 2px solid #16AFBB;
+    border: 1px solid white;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .newsletter_optin input[type="submit"]:hover {
       background: transparent;
       color: #4ddfea;
       box-shadow: 4px 4px 0 #4ddfea;
-      border: 2px solid #4ddfea;
+      border: 1px solid #4ddfea;
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
@@ -2359,6 +2375,12 @@ body {
 
 .testimonial-container {
   background: #666666; }
+
+.newsletter {
+  background: #16AFBB;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center; }
 
 .testimonial-navigation h3 {
   color: white; }

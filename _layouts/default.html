@@ -4,42 +4,43 @@
 {% include head.html %}
 
 	<body>
-
+		{% include header.html %}
 		<div class="container-fluid">
-		<div class="row">
-			  {% include contact-modal.html %}
-				{% include header.html %}
-				<!-- Display about main blog/content on mobile -->
-				{% include navigation.html %}
+			<div class="row">
+				<div class="col-sm-12">
 
-		</div>
-			<div class="row">
-			<div class="col-sm-12 visible-xs visible-sm">
-				{% include socials.html %}
-				{% include search-box.html %}
+					{% include navigation.html %}
+					{% include contact-modal.html %}
+				</div>
 			</div>
-		</div>
 			<div class="row">
-			<div class="col-lg-7 col-md-7 col-lg-offset-1">
-				{{ content }}
+				<div class="col-sm-12 visible-xs visible-sm">
+					{% include socials.html %}
+					{% include search-box.html %}
+				</div>
 			</div>
+
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-lg-offset-1">
+					{{ content }}
+				</div>
 
 			<!-- Sidebar Content // Hidden on mobile -->
 
+				<div class="col-md-5 col-lg-4 hidden-sm hidden-xs">
+					{% include socials.html %}
+					{% include search-box.html %}
+					{% include about.html %}
+					{% include reviews.html %}
+					{% include blog-archive-category.html %}
+				</div>
+			</div>
 
-			<div class="col-md-5 col-lg-4 hidden-sm hidden-xs">
-				{% include socials.html %}
-				{% include search-box.html %}
-				{% include about.html %}
-				{% include reviews.html %}
-				{% include blog-archive-category.html %}
-		</div>
-	{% include pagination.html %}
-</div>
-	{% include newsletter.html %}
-		{% include testimonials.html %}
-		{% include footer.html %}
+				{% include pagination.html %}
+				{% include newsletter.html %}
+				{% include testimonials.html %}
+				{% include footer.html %}
+			</div>
 
-	</div>
   </body>
 </html>

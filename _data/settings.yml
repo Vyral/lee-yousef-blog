@@ -41,7 +41,7 @@ socials:
 #podcast settings
 podcast:
   # Something Real Estate Podcast
-  title:
+  title: Calgary Real Estate Podcast
   categories:
     - category: 'News &amp; Politics'
   image:
