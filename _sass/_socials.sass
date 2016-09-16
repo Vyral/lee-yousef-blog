@@ -15,11 +15,12 @@
 		border-radius: 50%
 		@include transition
 		&:hover
-			fill: #4c4c4c
-			background: $brand-light
+			fill: $brand-light
+			background: transparent
 			color: $brand-light
-			box-shadow: 4px 4px 0 $brand-light
-			border: 2px solid $brand-light
+			+shadow
+			// box-shadow: 4px 4px 0 $brand-light
+			// border: 2px solid $brand-light
 			@include transform(scale(1.05))
 			@include transform(translateY(-0.2rem))
 		&:active
@@ -52,13 +53,37 @@
 			-webkit-transition: 1s cubic-bezier(0.4, 0, 0.2, 1)
 			transition: .3s cubic-bezier(0.4, 0, 0.2, 1)
 			&:hover
-				fill: #4c4c4c
+				fill: $brand-light
+				background: transparent
 
+
+
+@media (max-width: 1450px)
+	.socials
+		svg
+			@include size(4rem)
+@media (max-width: 1200px)
+	.socials
+		svg
+			@include size(4rem)
+
+	.footer-socials
+		.socials
+			svg
+				@include size(2.4rem)
+
+@media (max-width: 990px)
+	.socials
+		svg
+			@include size(4rem)
+		text-align: center
 
 @media (max-width: 445px)
-	.about
-		.socials
-			margin-bottom: 6rem
+
+	.socials
+		// margin-bottom: 6rem
+		svg
+			@include size(3rem)
 
 @media (max-width: 400px)
 	.socials
@@ -75,23 +100,3 @@
 		.socials
 			svg
 				@include size(1.8rem)
-
-@media (max-width: 990px)
-	.socials
-		svg
-			@include size(9rem)
-		text-align: center
-
-@media (max-width: 1450px)
-	.socials
-		svg
-			@include size(3rem)
-@media (max-width: 1200px)
-	.socials
-		svg
-			@include size(4rem)
-
-	.footer-socials
-		.socials
-			svg
-				@include size(2.4rem)

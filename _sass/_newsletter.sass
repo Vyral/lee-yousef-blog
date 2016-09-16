@@ -1,8 +1,9 @@
-section
-  .newsletter
-    background: $brand
-    // color: $light-text
-    text-align: center
+
+.newsletter
+  background: $brand
+  // color: $light-text
+  text-align: center
+  margin-top: 20px
   p
     margin-bottom: 1.5rem
 .newsletter_optin
@@ -51,8 +52,12 @@ section
       box-shadow: 0 0 0 $brand
       @include transform(translateY(0rem))
 
-@media (max-width:500px)
+@media (max-width:1113px)
   .newsletter_optin
     input[type="submit"], input[type="email"]
       margin: 10px auto
       width: 90%
+
+// @media (max-width:1113px)
+// 	.newsletter_optin
+// 		input[type="submit"], input[type="email"]
