@@ -1,3 +1,8 @@
+$(document).on('click','.navbar-collapse.in',function(e) {
+    if( $(e.target).is('a') ) {
+        $(this).collapse('hide');
+    }
+});
 //for blog archive toggling
 $('.tree-toggle').click(function () {
 	$(this).parent().children('ul.tree').toggle(200);

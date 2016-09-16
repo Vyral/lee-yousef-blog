@@ -2155,7 +2155,8 @@ table tr, table td {
   overflow: auto;
   background: rgba(0, 0, 0, 0.5);
   -webkit-animation: fade 0.5s;
-          animation: fade 0.5s; }
+          animation: fade 0.5s;
+  color: #555; }
 
 @-webkit-keyframes fade {
   0% {
