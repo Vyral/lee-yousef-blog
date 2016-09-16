@@ -1253,7 +1253,8 @@ html[xmlns] .flexslider .slides {
   border-radius: 0;
   min-height: 65px;
   background: #4c4c4c;
-  width: 100%; }
+  width: 100%;
+  overflow: hidden; }
   .navbar-andross .cta {
     background: #16AFBB;
     color: white;
@@ -1339,6 +1340,9 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
+@media(max-width: 347px) {
+  .navbar-header a.navbar-brand {
+    color: #4c4c4c; } }
 .catbloc li {
   font-size: 20px;
   color: #16AFBB;
@@ -1566,10 +1570,10 @@ table tr, table td {
 
 @media (max-width: 500px) {
   .paginator-links {
-    font-size: 1.5rem; }
+    font-size: 2.5rem; }
     .paginator-links svg {
-      height: 1rem;
-      width: 1rem; } }
+      height: 2rem;
+      width: 2rem; } }
 .content-wrapper {
   position: relative;
   bottom: 5.5rem;
@@ -2199,8 +2203,8 @@ table tr, table td {
   position: relative;
   background: white;
   padding: 2rem;
-  margin: 15% auto;
-  width: 80%;
+  margin: 10% auto;
+  width: 90%;
   max-width: 50rem;
   -webkit-animation: slide 0.5s;
           animation: slide 0.5s;
@@ -2229,6 +2233,9 @@ table tr, table td {
     outline: 0;
     border: 0; }
 
+@media (max-width: 500px) {
+  .contact-modal {
+    margin: 25% auto; } }
 form label {
   display: block; }
 form textarea {
