@@ -59,14 +59,15 @@ audit_header: false
 images:
   hero_image_path: '/img/yousef_newblog.jpg'
   hero_logo_path: '/img/ly_logo_white.png'
+  hero_text: 'Real Estate Video Blog'
   hero_background_hex: "#16AFBB"
   client_headshot_path: '/img/lee_yousef_headshot.jpg'
 
 #colors
 brand_hex: '#16AFBB'
-testimonial_fontcolor: '#fff'
 theme_text: "#fff"
 theme_color: "#4c4c4c"
+testimonial_fontcolor: '#fff'
 
 #make testimonial container match brand color
 # testimonial-container-brand_color: true

@@ -5,9 +5,24 @@
     <description></description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Sep 2016 16:31:40 -0500</pubDate>
-    <lastBuildDate>Fri, 16 Sep 2016 16:31:40 -0500</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2016 17:37:52 -0500</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2016 17:37:52 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Test Post</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qrSt5fTFxPk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;This is a test post, delete me or replace me.
+&lt;a href=&quot;https://twitter.com/home/?status=This is a pull quote%20localhost:4000/test-post.html%20via%40leeyousef&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is a pull quote”&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Sep 2016 00:00:00 -0500</pubDate>
+        <link>localhost:4000/test-post.html</link>
+        <guid isPermaLink="true">localhost:4000/test-post.html</guid>
+        
+        <category>test</category>
+        
+        
+      </item>
     
       <item>
         <title>Test Post</title>
