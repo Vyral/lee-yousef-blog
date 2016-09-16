@@ -1526,6 +1526,8 @@ table tr, table td {
   padding: 1rem;
   font-size: 3rem;
   font-weight: 300;
+  display: inline-table;
+  width: 100%;
   color: #dadada; }
   .paginator-links svg {
     fill: #16AFBB;
@@ -1876,8 +1878,8 @@ table tr, table td {
     width: 3rem; } }
 @media (max-width: 400px) {
   .socials svg {
-    height: 3rem;
-    width: 3rem; } }
+    height: 2rem;
+    width: 2rem; } }
 @media (max-width: 350px) {
   .about .socials {
     margin-bottom: 9rem; }
