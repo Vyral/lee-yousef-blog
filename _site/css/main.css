@@ -1302,10 +1302,11 @@ html[xmlns] .flexslider .slides {
 
 .navbar-andross .navbar-brand {
   color: #16AFBB;
-  padding-top: 33px;
+  padding-top: 20px;
   padding-bottom: 33px;
   font-size: 20px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  max-width: 80%; }
 
 .navbar-nav > li {
   margin-right: 10px;
@@ -1360,7 +1361,7 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 28rem;
-  margin-top: 5rem;
+  margin-top: 10rem;
   -webkit-filter: drop-shadow(0 2px 7px black);
   filter: drop-shadow(0 2px 7px black); }
 
@@ -1858,10 +1859,10 @@ table tr, table td {
   .socials svg {
     height: 4rem;
     width: 4rem; } }
-@media (max-width: 1200px) {
+@media (max-width: 1000px) {
   .socials svg {
-    height: 4rem;
-    width: 4rem; }
+    height: 3rem;
+    width: 3rem; }
 
   .footer-socials .socials svg {
     height: 2.4rem;
@@ -1998,15 +1999,12 @@ table tr, table td {
   border-radius: 50%;
   width: 200px;
   height: 200px;
-  padding: 5px;
   border: 3px solid #16AFBB;
   margin: 10px auto 0 6rem;
   overflow: hidden; }
-  .client-image-container img {
-    max-width: 200px;
-    position: relative;
-    top: -10px;
-    left: -10px; }
+
+.client-image {
+  max-width: 200px; }
 
 .about-container {
   display: -webkit-box;
@@ -2037,7 +2035,10 @@ table tr, table td {
 
 @media(max-width: 500px) {
   .footer {
-    text-align: center; } }
+    text-align: center; }
+    .footer .vyral-logo {
+      height: 3rem;
+      width: 3rem; } }
 .attribution {
   text-align: center; }
 
@@ -2301,14 +2302,15 @@ form select {
 .newsletter {
   background: #16AFBB;
   text-align: center;
-  margin-top: 20px; }
+  margin-top: 20px;
+  padding: 1rem; }
   .newsletter p {
     margin-bottom: 1.5rem; }
 
 .newsletter_optin {
   max-width: 50rem;
   margin: 3rem auto;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0rem;
   margin-top: 4.5rem; }
   .newsletter_optin input {
     vertical-align: middle; }
@@ -2374,5 +2376,4 @@ form select {
     margin: 10px auto;
     width: 90%; } }
 .site-logo {
-  max-width: 60rem;
-  margin-top: 13rem; }
+  max-width: 60rem; }
