@@ -65,8 +65,8 @@ images:
 
 #colors
 brand_hex: '#16AFBB'
-theme_text: '#fff'
-theme_color: "#4c4c4c"
+theme_text: '#2a2a28'
+theme_color: "#fff"
 testimonial_fontcolor: '#fff'
 
 #make testimonial container match brand color

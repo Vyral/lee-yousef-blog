@@ -1252,7 +1252,7 @@ html[xmlns] .flexslider .slides {
   border: none;
   border-radius: 0;
   min-height: 65px;
-  background: #4c4c4c;
+  background: #fff;
   width: 100%;
   overflow: hidden; }
   .navbar-andross .cta {
@@ -1342,7 +1342,7 @@ html[xmlns] .flexslider .slides {
 
 @media(max-width: 347px) {
   .navbar-header a.navbar-brand {
-    color: #4c4c4c; } }
+    color: #fff; } }
 .catbloc li {
   font-size: 20px;
   color: #16AFBB;
@@ -1423,9 +1423,9 @@ html {
 
 body {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
-  color: #fff;
+  color: #2a2a28;
   margin: 0;
-  background: #4c4c4c; }
+  background: #fff; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
@@ -2022,8 +2022,8 @@ table tr, table td {
     max-width: 350px; }
 
 .footer {
-  background: #4b4b4b;
-  color: #fff;
+  background: #fefefe;
+  color: #2a2a28;
   padding: 2rem;
   text-align: center;
   font-size: 18px; }
@@ -2098,8 +2098,8 @@ table tr, table td {
   font-weight: bold; }
 
 .testimonial-container {
-  background: #3f3f3f;
-  color: #fff;
+  background: #f2f2f2;
+  color: #2a2a28;
   padding: 3rem 10rem; }
 
 .testimonial-navigation {
@@ -2381,3 +2381,22 @@ form select {
     width: 90%; } }
 .site-logo {
   max-width: 60rem; }
+
+.navbar-andross {
+  background: url(/img/background.jpg) repeat 0 0 #2a2a28; }
+  .navbar-andross li {
+    color: #fff; }
+  .navbar-andross .nav li a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    padding-top: 15px; }
+    .navbar-andross .nav li a:hover {
+      color: #16AFBB; }
+  .navbar-andross .cta, .navbar-andross .cta2 {
+    background: transparent;
+    border: 2px solid white; }
+
+.footer {
+  background: #414141;
+  color: white; }
