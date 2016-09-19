@@ -1,9 +1,9 @@
 title: "Lee Yousef & Associates Real Estate Video Blog"
 # the subpath of your site, e.g. /blog
-baseurl: "/"
+baseurl: ""
 # the base hostname & protocol for your site. Don't let it end in '/' or you'll mess the links up
 # Change for production:
-url: "http://leeyousef.com"
+url: "leeyousef.com"
 
 # Build settings
 markdown: kramdown
