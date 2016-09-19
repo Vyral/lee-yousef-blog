@@ -1,10 +1,10 @@
 title: Lee Yousef & Associates Real Estate Video Blog
-description:
+description: Learn all the tips, tricks and more for buyers and sellers in the Calgary Area Real Estate Market
 
 #for the navbar links.
 custom_links:
-  - title: Our Listings
-    url: http://www.calgaryareahousesforsale.com/featured/
+  # - title: Our Listings
+  #   url: http://www.calgaryareahousesforsale.com/featured/
 
 client:
   market: Calgary
@@ -65,7 +65,7 @@ images:
 
 #colors
 brand_hex: '#16AFBB'
-theme_text: "#fff"
+theme_text: '#fff'
 theme_color: "#4c4c4c"
 testimonial_fontcolor: '#fff'
 
