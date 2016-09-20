@@ -23,7 +23,7 @@ thumbnail: 'http://img.youtube.com/vi/77hEBMF0tK8/maxresdefault.jpg'
 
 Let’s be honest—technology dominates most of our day-to-day business lives. How can you use it wisely and use it to be more productive? Today I want to talk about my three tips to accomplish this.
 
-The first tip is shutting down all of your systems that aren’t being used. Ask your staff what technology they’re using and then do a full inventory. If you find any programs or systems that haven’t been used in 60 to 90 days, uninstall or remove them. Software programs in the Cloud usually have their own login history, so for those it’s as simple as checking that login history. It’s also important to remember to discontinue any licenses you might be paying for.
+The first tip is **shutting down all of your systems that aren’t being used.** Ask your staff what technology they’re using and then do a full inventory. If you find any programs or systems that haven’t been used in 60 to 90 days, uninstall or remove them. Software programs in the Cloud usually have their own login history, so for those it’s as simple as checking that login history. It’s also important to remember to discontinue any licenses you might be paying for.
 
 The second tip is to talk with your staff about how they’re using the technology that is available to them and how they’re entering data into it. If they’re entering data into two or more separate systems, there may be an integration platform that can streamline each system. More often than not, there is such an integration platform; it’s just a simple matter of somebody taking the time to talk to the different vendors and setting it up.
 
