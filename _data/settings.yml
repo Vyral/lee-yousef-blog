@@ -18,7 +18,7 @@ client:
   url: CalgaryAreaHousesForSale.com
   # if forms put '/homevalue/' or '/homesearch/'
   homeeval: 'http://www.calgaryareahousesforsale.com/'
-  homeeval_txt: Home Evaluation
+  homeeval_txt: Free Consultation
   homesearch: '#'
   homesearch_txt: '#'
   VR_form:
