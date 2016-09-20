@@ -23,7 +23,7 @@ The first tip is **shutting down all of your systems that aren’t being used.**
 
 The second tip is to talk with your staff about how they’re using the technology that is available to them and how they’re entering data into it. If they’re entering data into two or more separate systems, there may be an integration platform that can streamline each system. More often than not, there is such an integration platform; it’s just a simple matter of somebody taking the time to talk to the different vendors and setting it up.
 
-[“{{page.pullquote}}”](https://twitter.com/home/?status={{page.pullquote}}%20{{site.url}}{{page.url}}%20via%40{{site.data.settings.socials.twitter | remove: 'https://twitter.com/'}}){: .pullquote} 
+<a href="https://twitter.com/home/?status={{page.pullquote}}%20{{site.url}}{{page.url}}%20via%40{{site.data.settings.socials.twitter | remove: 'https://twitter.com/'}}" target='_blank' class="pullquote">&#8220;{{page.pullquote}}&#8221;</a>
 
 The third and final tip is refreshing your knowledge of the software. If it gets updated without your knowledge, you might not be aware of any potentially new features or functions. Go back and take a refresher class, whether it be on-site, via webinar, or via custom demo. Whatever the case may be, learning what’s new with these software programs can be a boon to your efficiency. &nbsp;
 
