@@ -17,11 +17,11 @@ client:
   #Dont Include http://
   url: CalgaryAreaHousesForSale.com
   # if forms put '/homevalue/' or '/homesearch/'
-  homeeval: 'http://www.calgaryareahousesforsale.com/'
+  homeeval: 'http://www.calgaryareahousesforsale.com/homevalue/'
   homeeval_txt: 'Home Value'
-  homesearch: 'http://www.calgaryareahousesforsale.com/homevalue/'
+  homesearch: 'http://www.calgaryareahousesforsale.com/'
   homesearch_txt: Home Search
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=5d6de56ab8
 
 
 # social links
