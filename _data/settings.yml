@@ -47,7 +47,7 @@ images:
   hero_text: Real Estate Video Blog
   hero_background_hex: '#16afbb'
   client_headshot_path: /img/lee_yousef_headshot.jpg
-brand_color: '#16afbb'
+brand_color: '#6c16bb'
 theme_color: '#ffffff'
 theme_text_color: '#2a2a28'
 main_body_color: '#ffffff'
