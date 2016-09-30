@@ -1,18 +1,20 @@
+audit_header: false
 title: Lee Yousef & Associates Real Estate Training Blog
 description: Learn all the tips, tricks and more for buyers and sellers in the Calgary Area Real Estate Market
 
 #for the navbar links.
+show_custom_links: false
 custom_links:
-  # - title: Our Listings
-  #   url: http://www.calgaryareahousesforsale.com/featured/
+  - title:
+    url:
 
 client:
+  name: Lee Yousef
   about_markdown: >-
     Lee Yousef is a top producing Calgary luxury real estate specialist, with an extensive background in economics and custom home construction. Recipient of the coveted SAM Award in his first year of business, Lee's accomplishments in real estate speak for themselves. Over the past 15 years, he has owned and operated a custom home building company overseeing every aspect of the building process, including Interior Design, Architecture, and Construction.
     <br><br>
     He also served as Area Sales Manager for a large volume builder for eight years during which he successfully generated over $150 million in new home sales. To Lee, success is about going above and beyond for his clients; defying their wildest expectations, while helping them achieve professional results.
   market: Calgary
-  name: Lee Yousef
   brand: 'Lee Yousef & Associates'
   brokerage: 'CIR Realty'
   address: '707 10 Ave SW Calgary, Alberta T2R 0B3'
@@ -36,9 +38,9 @@ socials:
   youtube_url: 'https://www.youtube.com/channel/UCCZEGY37lAtpOD6fZ44XWfA'
   twitter_url: 'https://twitter.com/leeyousef'
   instagram_url: 'http://instagram.com/leeyousef.realestate'
-  pinterest_url: '#'
-  zillow_url: '#'
-  trulia_url: '#'
+  pinterest_url:
+  zillow_url:
+  trulia_url:
   yelp_url: 'https://www.yelp.com/biz/lee-yousef-and-associates-calgary'
   podcast_url: 'http://leeyousef.blogspot.com/feeds/posts/default?alt=rss'
 
@@ -49,8 +51,8 @@ podcast:
   categories:
     - category: 'News &amp; Politics'
   image:
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- market -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from --client brand-- - your professional --market-- Real Estate Agents.'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Calgary Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Lee Yousef and Associates - your professional Calgary Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Calgary, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author:
 

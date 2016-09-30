@@ -1,4 +1,5 @@
-testimonials: '#'
- # - quote: '#'
- #   name: '#'
- #   audio: '#'
+show_testimonials_section: false
+testimonials:
+ - quote:
+   name:
+   audio:
