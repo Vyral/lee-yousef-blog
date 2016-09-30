@@ -9,7 +9,7 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Lee+Yousef/Calgary+Real+Esta
 pullquote: There is a lot of pent up demand for homes.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 0Dstx9mVkpU
 ---
