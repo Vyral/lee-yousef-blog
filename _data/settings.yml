@@ -1,4 +1,4 @@
-title: Lee Yousef & Associates Real Estate Video Blog
+title: Lee Yousef & Associates Real Estate Training Blog
 description: Learn all the tips, tricks and more for buyers and sellers in the Calgary Area Real Estate Market
 
 #for the navbar links.
@@ -17,11 +17,11 @@ client:
   #Dont Include http://
   url: CalgaryAreaHousesForSale.com
   # if forms put '/homevalue/' or '/homesearch/'
-  homeeval: 'http://www.calgaryareahousesforsale.com/'
-  homeeval_txt: Home Evaluation
-  homesearch: 'http://www.calgaryareahousesforsale.com/homevalue/'
+  homeeval: 'http://www.calgaryareahousesforsale.com/homevalue/'
+  homeeval_txt: 'Home Value'
+  homesearch: 'http://www.calgaryareahousesforsale.com/'
   homesearch_txt: Home Search
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=5d6de56ab8
 
 
 # social links
@@ -31,7 +31,7 @@ socials:
   gplus: 'https://plus.google.com/117612973095930427295'
   youtube: 'https://www.youtube.com/channel/UCCZEGY37lAtpOD6fZ44XWfA'
   twitter: 'https://twitter.com/leeyousef'
-  instagram: '#'
+  instagram: 'http://instagram.com/leeyousef.realestate'
   pinterest: '#'
   zillow: '#'
   trulia: '#'
