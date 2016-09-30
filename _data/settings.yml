@@ -1,36 +1,25 @@
-audit_header: true
-title: Lee Yousef & Associates Real Estate Video Blog
-description: Learn all the tips, tricks and more for buyers and sellers in the Calgary Area Real Estate Market
-
-#for the navbar links.
+audit_header: false
+title: 'Lee Yousef & Associates Real Estate Video Blog'
+description: 'Learn all the tips, tricks and more for buyers and sellers in the Calgary Area Real Estate Market'
 show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
   name: Lee Yousef
-  about_markdown: >-
-    Lee Yousef is a top producing Calgary luxury real estate specialist, with an extensive background in economics and custom home construction. Recipient of the coveted SAM Award in his first year of business, Lee's accomplishments in real estate speak for themselves. Over the past 15 years, he has owned and operated a custom home building company overseeing every aspect of the building process, including Interior Design, Architecture, and Construction.
-    <br><br>
-    He also served as Area Sales Manager for a large volume builder for eight years during which he successfully generated over $150 million in new home sales. To Lee, success is about going above and beyond for his clients; defying their wildest expectations, while helping them achieve professional results.
+  about_markdown: "Lee Yousef is a top producing Calgary luxury real estate specialist, with an extensive background in economics and custom home construction. Recipient of the coveted SAM Award in his first year of business, Lee's accomplishments in real estate speak for themselves. Over the past 15 years, he has owned and operated a custom home building company overseeing every aspect of the building process, including Interior Design, Architecture, and Construction. <br><br> He also served as Area Sales Manager for a large volume builder for eight years during which he successfully generated over $150 million in new home sales. To Lee, success is about going above and beyond for his clients; defying their wildest expectations, while helping them achieve professional results."
   market: Calgary
   brand: 'Lee Yousef & Associates'
-  brokerage: 'CIR Realty'
+  brokerage: CIR Realty
   address: '707 10 Ave SW Calgary, Alberta T2R 0B3'
   phone: 403-689-3839
   email: info@LeeYousef.com
-  #Dont Include http://
   url: CalgaryAreaHousesForSale.com
-
-  # if forms put '/homevalue/' or '/homesearch/'
   first_CTA_text: Home Evaluation
   first_CTA_URL: 'http://www.calgaryareahousesforsale.com/homevalue/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.calgaryareahousesforsale.com/'
-  VR_form: http://oi.vresp.com?fid=5d6de56ab8
-
-# social links
+  VR_form: 'http://oi.vresp.com?fid=5d6de56ab8'
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/leeyousefrealestate'
@@ -44,38 +33,22 @@ socials:
   trulia_url:
   yelp_url: 'https://www.yelp.com/biz/lee-yousef-and-associates-calgary'
   podcast_url: 'http://feeds.feedburner.com/leeyousefrealestateadvisors/efCR'
-
-#podcast settings
 podcast:
-  # Something Real Estate Podcast
   title: Calgary Real Estate Podcast
   categories:
-    - category: 'News &amp; Politics'
   image:
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Calgary Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Lee Yousef and Associates - your professional Calgary Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Calgary, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author:
-
-#layout options
-# if we want review buttons --
-
-
-#image settings
 images:
-  hero_image_path: '/img/yousef_newblog.jpg'
-  hero_logo_path: '/img/ly_logo_white.png'
-  hero_text: 'Real Estate Video Blog'
-  hero_background_hex: "#16AFBB"
-  client_headshot_path: '/img/lee_yousef_headshot.jpg'
-
-#colors
-brand_color: '#16AFBB'
-theme_color: '#fff'
+  hero_image_path: /img/yousef_newblog.jpg
+  hero_logo_path: /img/ly_logo_white.png
+  hero_text: Real Estate Video Blog
+  hero_background_hex: '#16afbb'
+  client_headshot_path: /img/lee_yousef_headshot.jpg
+brand_color: '#16afbb'
+theme_color: '#ffffff'
 theme_text_color: '#2a2a28'
-theme_color: "#fff"
-main_body_color: '#fff'
+main_body_color: '#ffffff'
 main_body_text_color: '#353535'
-
-#make testimonial container match brand color
-# testimonial-container-brand_color: true
