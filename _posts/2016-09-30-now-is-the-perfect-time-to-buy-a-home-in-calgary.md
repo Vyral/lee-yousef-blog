@@ -25,7 +25,6 @@ On the supply side, builders and developers in Calgary have pulled back signific
 When you combine the pent-up demand and the reduction in supply of new housing since 2014, we get the perfect storm for home prices to increase given the right circumstances. The three most important factors that would trigger a buying frenzy in our real estate market are:
 
 1. **Interest Rates.** Currently, we’re seeing record low interest rates for homebuyers. If we consider a $480,000 mortgage, using five-year fixed rates in the low 2.2% – 2.4% range as compared with average historic rates around 5.50% would save a homeowner around $49,000 in interest over a 5-year period. These are significant savings for homeowners. These rates will not last forever. The minute oil prices increase and the federal government starts to see tax revenues flowing again from the energy sector you can bet they will increase rates immediately.
-2. {: style="font-size: 18px;"}
 2. **Oil Prices.** Oil prices need to go back up close to $60 per barrel. Alberta is known for being a high cost production market, especially when we look at the oil prices. Since 2014, oil producers have had to adjust drastically and have cut their costs significantly, making them more competitive at the $60 per barrel level.
 {: style="font-size: 18px;"}
 
