@@ -1,0 +1,36 @@
+<header class="warning">
+  <div class="container">
+    <div class="row">
+      <div class="col col--12-of-12">
+        <ul class="missing">
+        {% if site.data.settings.client.first_CTA_URL == '#' %}
+          <li>Needs Home Eval Link</li>
+        {% endif%}
+        {% if site.data.settings.client.second_CTA_URL == '#' %}
+          <li>Needs Home Search Link</li>
+        {% endif%}
+        {% if site.data.settings.client.VR_form == '#' %}
+          <li>Needs VR optin url</li>
+        {% endif %}
+        {% if site.data.settings.socials.facebook_url == '#' %}
+          <li>Needs Facebook Link</li>
+        {% endif%}
+        {% if site.data.settings.socials.linkedin_url == '#' %}
+          <li>Needs Linkedin Link</li>
+        {% endif %}
+        {% if site.data.settings.socials.gplus_url == '#' %}
+          <li>Needs Google Plus Link</li>
+        {% endif %}
+        {% if site.data.settings.socials.youtube_url == '#' %}
+          <li>Needs Youtube Link</li>
+        {% endif %}
+        {% if site.data.settings.socials.twitter_url == '#' %}
+          <li>Needs Twitter Link</li>
+        {% else %}
+          {% assign site.data.settings.audit_header = false  %}
+        {% endif %}
+      </ul>
+      </div>
+    </div>
+  </div>
+</header>

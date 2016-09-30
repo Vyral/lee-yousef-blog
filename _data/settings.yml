@@ -7,6 +7,10 @@ custom_links:
   #   url: http://www.calgaryareahousesforsale.com/featured/
 
 client:
+  about_markdown: >-
+    Lee Yousef is a top producing Calgary luxury real estate specialist, with an extensive background in economics and custom home construction. Recipient of the coveted SAM Award in his first year of business, Lee's accomplishments in real estate speak for themselves. Over the past 15 years, he has owned and operated a custom home building company overseeing every aspect of the building process, including Interior Design, Architecture, and Construction.
+    <br><br>
+    He also served as Area Sales Manager for a large volume builder for eight years during which he successfully generated over $150 million in new home sales. To Lee, success is about going above and beyond for his clients; defying their wildest expectations, while helping them achieve professional results.
   market: Calgary
   name: Lee Yousef
   brand: 'Lee Yousef & Associates'
@@ -17,26 +21,26 @@ client:
   #Dont Include http://
   url: CalgaryAreaHousesForSale.com
   # if forms put '/homevalue/' or '/homesearch/'
-  homeeval: 'http://www.calgaryareahousesforsale.com/homevalue/'
-  homeeval_txt: 'Home Value'
-  homesearch: 'http://www.calgaryareahousesforsale.com/'
-  homesearch_txt: Home Search
+  first_CTA_text: Home Evaluation
+  first_CTA_URL: 'http://www.calgaryareahousesforsale.com/homevalue/'
+  second_CTA_text: Home Search
+  second_CTA_URL: 'http://www.calgaryareahousesforsale.com/'
   VR_form: http://oi.vresp.com?fid=5d6de56ab8
 
 
 # social links
 socials:
-  facebook: 'https://www.facebook.com/leeyousefrealestate'
-  linkedin: 'https://ca.linkedin.com/in/lee-yousef-b8190340'
-  gplus: 'https://plus.google.com/117612973095930427295'
-  youtube: 'https://www.youtube.com/channel/UCCZEGY37lAtpOD6fZ44XWfA'
-  twitter: 'https://twitter.com/leeyousef'
-  instagram: 'http://instagram.com/leeyousef.realestate'
-  pinterest: '#'
-  zillow: '#'
-  trulia: '#'
-  yelp: 'https://www.yelp.com/biz/lee-yousef-and-associates-calgary'
-  podcast: 'http://leeyousef.blogspot.com/feeds/posts/default?alt=rss'
+  facebook_url: 'https://www.facebook.com/leeyousefrealestate'
+  linkedin_url: 'https://ca.linkedin.com/in/lee-yousef-b8190340'
+  gplus_url: 'https://plus.google.com/117612973095930427295'
+  youtube_url: 'https://www.youtube.com/channel/UCCZEGY37lAtpOD6fZ44XWfA'
+  twitter_url: 'https://twitter.com/leeyousef'
+  instagram_url: 'http://instagram.com/leeyousef.realestate'
+  pinterest_url: '#'
+  zillow_url: '#'
+  trulia_url: '#'
+  yelp_url: 'https://www.yelp.com/biz/lee-yousef-and-associates-calgary'
+  podcast_url: 'http://leeyousef.blogspot.com/feeds/posts/default?alt=rss'
 
 #podcast settings
 podcast:
@@ -64,10 +68,12 @@ images:
   client_headshot_path: '/img/lee_yousef_headshot.jpg'
 
 #colors
-brand_hex: '#16AFBB'
-theme_text: '#2a2a28'
+brand_color: '#16AFBB'
+theme_color: '#fff'
+theme_text_color: '#2a2a28'
 theme_color: "#fff"
-testimonial_fontcolor: '#fff'
+main_body_color: '#fff'
+main_body_text_color: '#353535'
 
 #make testimonial container match brand color
 # testimonial-container-brand_color: true
