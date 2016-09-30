@@ -2,7 +2,6 @@
 layout: post
 title: Now Is the Perfect Time to Buy a Home in Calgary
 tags:
-  - Real Estate
   - Buyer Tips
 excerpt: 'It’s the perfect time to buy your next home in Calgary. There is a lot of pent up demand for housing, and you can take advantage of that right now. Interest rates continue to be historically low, and represent a significant opportunity for potential home buyers. We expect home prices to increase in the near future, but they are at a great level right now. To learn more about the Calgary market and why it’s set up so perfectly for buyers, watch this short video.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Lee+Yousef/Calgary+Real+Estate+It%E2%80%99s+a+smart+time+to+buy+in+Calgary.mp4'
