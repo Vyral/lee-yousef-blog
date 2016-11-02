@@ -32,7 +32,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url: 'https://www.yelp.com/biz/lee-yousef-and-associates-calgary'
-  podcast_url: 'http://feeds.feedburner.com/leeyousefrealestateadvisors/efCR'
+  podcast_url: https://pcr.apple.com/id1171529312
 podcast:
   title: Calgary Real Estate Podcast
   categories: News & Politics
