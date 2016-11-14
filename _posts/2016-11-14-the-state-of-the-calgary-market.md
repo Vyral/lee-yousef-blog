@@ -5,7 +5,7 @@ tags:
   - Market Update
 excerpt: "We're back with our monthly market update. To get a feel for the market, we like to compare the benchmark home prices from last month to the same month last year. We're seeing a mixed bag, but overall, the market is down a bit. This leaves an opportunity open for certain people, however. To learn more about the state of our market and who is in the best position to take advantage, watch this short video."
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Lee+Yousef/Calgary+Real+Estate+Who+is+winning+in+the+Calgary+market.mp4'
-pullquote: 'Andross, the Final Boss'
+pullquote: "Our market is a mixed bag, but it's a great time to buy a home."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
