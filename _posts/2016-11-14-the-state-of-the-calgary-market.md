@@ -16,6 +16,8 @@ youtube_code: VtYC_xQYNlg
 
 {% include youtube.html %}
 
+**[To see the November 2016 report, click here.](https://drive.google.com/file/d/0B5T9mSzTN8NfVHpBaTZLOTRrMXpxaWp3WjVrNHdxcFNfcjJz/view?usp=sharing)**
+
 When we look at the market, we like to compare data like benchmark price from this year to the same time last year. Let's take a look at the how they have change in our surrounding area this month compared to last year:
 
 Hillhurst is up 1%
