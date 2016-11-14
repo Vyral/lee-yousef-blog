@@ -19,36 +19,21 @@ youtube_code: VtYC_xQYNlg
 When we look at the market, we like to compare data like benchmark price from this year to the same time last year. Let's take a look at the how they have change in our surrounding area this month compared to last year:
 
 Hillhurst is up 1%
-
-Ramsey is up 5%
-
-Beltline is down 13%
-
-Hamptons is unchanged
-
-Rosedale is up 3%
-
-Varsity is down 6%
-
-Coral Springs is down 10%
-
-Silverado is down 6%
-
-Aspend Woods is down 3%
-
-Lake Bonavista is up 3%
-
-Cranston is down 7%
-
-Sherwood is up 1%
-
-Airdrie is down 4%
-
-Okotoks is down 1%
-
-Chestermere is down 2%
-
-Cochrane is down 4%
+<br>Ramsey is up 5%
+<br>Beltline is down 13%
+<br>Hamptons is unchanged
+<br>Rosedale is up 3%
+<br>Varsity is down 6%
+<br>Coral Springs is down 10%
+<br>Silverado is down 6%
+<br>Aspend Woods is down 3%
+<br>Lake Bonavista is up 3%
+<br>Cranston is down 7%
+<br>Sherwood is up 1%
+<br>Airdrie is down 4%
+<br>Okotoks is down 1%
+<br>Chestermere is down 2%
+<br>Cochrane is down 4%
 
 {% include pullquote.html %}
 
