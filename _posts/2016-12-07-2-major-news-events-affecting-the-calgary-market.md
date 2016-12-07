@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two Major News Events Affecting the Calgary Market
+title: 2 Major News Events Affecting the Calgary Market
 tags:
   - Real Estate
 excerpt: 'We recently had not one but two big news events happen in Calgary that will have a profound impact on our local economy and the real estate market. The first has to do with OPEC and the oil sector while the second pertains to new regulations in mortgage banking and their effects on interest rates. These far-reaching effect will impact buyers, sellers, and homeowners alike. For more information, watch this short video.'
@@ -24,6 +24,6 @@ The news in oil has everyone in Calgary talking, and an OPEC deal to reduce oil 
 
 {% include pullquote.html %}
 
-The other big news—banks increasing rates—are on mortgages with longer amortization periods and all rental properties. Starting December 1st, all mortgages more than 25 years will cost borrowers and extra 10 basis points, and mortgages on rental properties will go up by 25 basis points, regardless of the amortization period. This will have the biggest impact on first-time buyers and investors since they typically take longer amortization periods on loans.
+The other big news—banks increasing rates—are on mortgages with longer amortization periods and all rental properties. Starting December 1st, all mortgages of more than 25 years will cost borrowers an extra 10 basis points, and mortgages on rental properties will go up by 25 basis points, regardless of the amortization period. This will have the biggest impact on first-time buyers and investors since they typically take longer amortization periods on loans.
 
 If you have any questions about these newsworthy events or how they affect real estate, give me a call or send me an email. I’d be happy to help in any way I can.
