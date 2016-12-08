@@ -18,7 +18,7 @@ youtube_code: gT3LatJADuk
 
 Today I wanted to address a few big news items in Calgary that recently came about.
 
-First, oil prices appear to be on the rebound after OPEC’s commitment to reduce production by about 1.2 million barrels per day. The second item is the big change in mortgage lending rules causing big banks to raise their mortgage rates this week. Both of these events are very import in real estate and will have an impact in Calgary going forward.
+First, oil prices appear to be on the rebound after OPEC’s commitment to reduce production by about 1.2 million barrels per day. The second item is the big change in mortgage lending rules causing big banks to raise their mortgage rates this week. Both of these events are very important in real estate and will have an impact in Calgary going forward.
 
 The news in oil has everyone in Calgary talking, and an OPEC deal to reduce oil for the first time in eight years is positive news for Alberta. The price of oil jumped to more than $51 per barrel and the positive price is encouraging in Calgary right now. Many people who lost jobs in the oil sector in the last two years are feeling very optimistic today because higher prices mean more capital projects, meaning more jobs. As a result of the strengthening job sector, we expect prices for resale and new construction homes to increase over the next couple of months.
 
